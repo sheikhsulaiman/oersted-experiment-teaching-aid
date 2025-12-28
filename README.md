@@ -5,6 +5,7 @@ An interactive teaching aid for understanding electromagnetic phenomena, specifi
 ## Features
 
 ### 1. Interactive Oersted's Experiment
+
 - Virtual compass with animated needle deflection
 - Current on/off switch
 - Reverse current direction button
@@ -13,6 +14,7 @@ An interactive teaching aid for understanding electromagnetic phenomena, specifi
 - Visual magnetic field indicators
 
 ### 2. Magnetic Field Visualizer
+
 - Straight wire cross-section with circular field lines
 - Animated iron filings pattern
 - Adjustable current intensity slider (affects field strength)
@@ -21,6 +23,7 @@ An interactive teaching aid for understanding electromagnetic phenomena, specifi
 - Dynamic field strength visualization
 
 ### 3. Right-Hand Thumb Rule Helper
+
 - Visual guide with animated hand demonstration
 - Step-by-step instructions
 - Interactive practice mode with quiz questions
@@ -30,6 +33,7 @@ An interactive teaching aid for understanding electromagnetic phenomena, specifi
 ## Getting Started
 
 ### Prerequisites
+
 - Node.js (v18 or higher recommended)
 - npm or yarn
 
@@ -51,7 +55,9 @@ npm run preview
 
 ## Usage
 
-1. Open the application in your browser (default: http://localhost:5173)
+1. Open the application in your browser:
+   - Local development: http://localhost:5173
+   - Deployed version: http://localhost:5173/oersted-experiment-teaching-aid/
 2. Navigate between three tabs:
    - **Oersted's Experiment**: Toggle current on/off and observe compass deflection
    - **Magnetic Field Visualizer**: Adjust current intensity and explore field patterns
@@ -85,6 +91,7 @@ src/
 ## Educational Value
 
 This teaching aid helps students understand:
+
 - How electric current creates magnetic fields (Oersted's discovery)
 - The circular nature of magnetic fields around current-carrying wires
 - The right-hand thumb rule for determining field direction

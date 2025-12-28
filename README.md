@@ -57,9 +57,11 @@ npm run preview
 
 Watch a quick video tutorial on how to use the application:
 
-https://github.com/user-attachments/assets/Oersted's%20Experiment%20Teaching%20Aid.mp4
+https://github.com/user-attachments/assets/d4b8e9f3-c5a2-4e1d-9f8e-7a6b5c4d3e2f
 
-_Video location: `src/assets/Oersted's Experiment Teaching Aid.mp4`_
+<video src="src/assets/Oersted's Experiment Teaching Aid.mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
 
 ## Usage
 

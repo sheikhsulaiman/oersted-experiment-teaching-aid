@@ -2,6 +2,10 @@
 
 An interactive teaching aid for understanding electromagnetic phenomena, specifically Oersted's experiment and related concepts. Built with Vite, React, TypeScript, and shadcn/ui.
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://sheikhsulaiman.github.io/oersted-experiment-teaching-aid/)**
+
 ## Features
 
 ### 1. Interactive Oersted's Experiment
@@ -64,7 +68,7 @@ https://github.com/user-attachments/assets/be66f8d3-c60a-4d23-9ee3-82e2b2c3011b
 
 1. Open the application in your browser:
    - Local development: http://localhost:5173
-   - Deployed version: http://localhost:5173/oersted-experiment-teaching-aid/
+   - Deployed version: https://sheikhsulaiman.github.io/oersted-experiment-teaching-aid/
 2. Navigate between three tabs:
    - **Oersted's Experiment**: Toggle current on/off and observe compass deflection
    - **Magnetic Field Visualizer**: Adjust current intensity and explore field patterns

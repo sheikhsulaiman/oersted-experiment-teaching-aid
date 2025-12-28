@@ -53,6 +53,14 @@ npm run build
 npm run preview
 ```
 
+## Video Guide
+
+Watch a quick video tutorial on how to use the application:
+
+https://github.com/user-attachments/assets/Oersted's%20Experiment%20Teaching%20Aid.mp4
+
+_Video location: `src/assets/Oersted's Experiment Teaching Aid.mp4`_
+
 ## Usage
 
 1. Open the application in your browser:

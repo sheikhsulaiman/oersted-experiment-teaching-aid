@@ -57,7 +57,8 @@ npm run preview
 
 Watch a quick video tutorial on how to use the application:
 
-https://github.com/sheikhsulaiman/oersted-experiment-teaching-aid/assets/188737697/Oersted's%20Experiment%20Teaching%20Aid.mp4
+
+https://github.com/user-attachments/assets/be66f8d3-c60a-4d23-9ee3-82e2b2c3011b
 
 ## Usage
 
